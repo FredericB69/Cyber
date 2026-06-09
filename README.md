@@ -47,7 +47,7 @@ Je suis passioné de sécurité informaique depuis plus de 20 ans avec mon premi
 
 ---
 ### **💡 À inclure**
-- Capture d’écran d’un scan Nmap.
+- Lien pour les scripts : https://nmap.org/book/nse-script-format.html
 - Exemple de commande : `nmap -sV -O [IP]`
 
 ---
