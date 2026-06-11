@@ -25,13 +25,6 @@ Je suis passioné de sécurité informaique depuis plus de 20 ans avec mon premi
 - **Exemple concret** : Une faille XSS ou SQLi sur un site web.
 
 ---
-### **💡 À inclure**
-- Schéma simple : **Attaquant ↔ Cible ↔ Défenseur**
-- Statistiques récentes (ex : coût moyen d’une cyberattaque en 2026).
-
----
-
----
 
 ## **2️⃣ Les Bases du Pentesting**
 **Objectif** : Expliquer ce qu’est un test d’intrusion et ses étapes.
