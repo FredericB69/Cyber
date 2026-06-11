@@ -143,8 +143,3 @@ Si tu veux, je peux te générer :
 - Un **template PowerPoint/Google Slides** (structure + visuels).
 - Un **site web simple** (HTML/CSS) pour héberger ta présentation sur GitHub Pages.
 
----
-**Dis-moi ce qui t’intéresse le plus, et je t’aide à le créer !**
-- Veux-tu un exemple de challenge Root Me à intégrer ?
-- Veux-tu un extrait du programme Cyberini ?
-- Préfères-tu un format visuel (diagrammes, captures) ?
