@@ -106,9 +106,8 @@ Je suis passioné de sécurité informaique depuis plus de 20 ans avec mon premi
   - [Hack The Box](https://www.hackthebox.com)
   - [OverTheWire](https://overthewire.org/wargames/)
   - Chaînes YouTube : **John Hammond**, **The Cyber Mentor**, **RootedCON**
-- **Livres** :
-  - "Le Pentesting pour les Nuls"
-  - "The Web Application Hacker’s Handbook"
+- **Liens** :
+  - [GTFOBins](https://gtfobins.org/)
 - **Communautés** :
   - Discord : **Root Me**, **Cyberini**
   - Forums : **RootedCON**, **Forum Cybermalveillance.gouv.fr**
