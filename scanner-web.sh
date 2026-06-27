@@ -4,7 +4,7 @@ if [ -z "$1" ]; then
 	echo "Usage: $0 <target>"
 	exit 1
 fi
-
+# Target
 target=$1
 output="resultat-scanner.txt"
 
