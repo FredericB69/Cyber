@@ -75,7 +75,7 @@ Je suis passioné de sécurité informaique depuis plus de 20 ans avec mon premi
 **Objectif** : Présenter une formation structurée pour maîtriser le pentesting.
 
 - **Qu’est-ce que Cyberini ?**
-  Plateforme française de **formations en cybersécurité**, avec des parcours certifiants.
+  Plateforme française de **formations en cybersécurité**, avec un parcour certifiants.
 - **Formation Pentesting** :
   - **Durée** : 120h (selon le rythme).
   - **Contenu** :
