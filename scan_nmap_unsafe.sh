@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Script de scan Nmap pour détecter les ports non sécurisés (ouverts) entre 1 et 1024,
-# identifier les versions des services et scanner les vulnérabilités.
+# identifier les versions des services et scanner les vulnérabilités..
 # Usage: ./scan_nmap_unsafe.sh [OPTIONS] <cible>
 
 # --- Couleurs pour l'affichage ---
