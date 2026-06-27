@@ -24,7 +24,7 @@ else:
     print("Login Admin ok")
 
 pageavis = session.get(site + "/rest/captcha")
-# print(pageavis.text)
+# print(pageavis.text).
 captchainfos=json.loads(pageavis.text)
 captchaid=captchainfos["captchaId"]
 captcharep=captchainfos["answer"]
