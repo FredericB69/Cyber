@@ -77,7 +77,7 @@ Je suis passioné de sécurité informaique depuis plus de 20 ans avec mon premi
 - **Qu’est-ce que Cyberini ?**
   Plateforme française de **formations en cybersécurité**, avec des parcours certifiants.
 - **Formation Pentesting** :
-  - **Durée** : ~50h (selon le rythme).
+  - **Durée** : 120h (selon le rythme).
   - **Contenu** :
     - Bases réseaux et systèmes
     - Méthodologie de pentest
